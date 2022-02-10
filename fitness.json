@@ -1,50 +1,5 @@
 [
-  {
-  "id": 1,
-  "package_name": "PLATINUM MEMBERSHIP",
-  "package_img": "https://i.ibb.co/Lk6jKQ3/single-one.jpg",
-  "entry": "Single Person",
-  "charge": "BDT 70,000 (Yearly Charges)",
-  "description": "gymnasium, programming exercise, free consultancy & fitness analysis with the chief instructor, members healthcare benefits 5000 locker charges Included: customized diet, workout, session therapy Per KG at 5,000BDT"
-  },
-  {
-  "id": 2,
-  "package_name": "PLATINUM MEMBERSHIP",
-  "package_img": "https://i.ibb.co/fdBQTwz/couple-one.jpg",
-  "entry": "For Couple",
-  "charge": "BDT 120,000 (Yearly Charges)",
-  "description": "gymnasium, programming exercise, free consultancy & fitness analysis with the chief instructor, members healthcare benefits, unlimited steam baths 5000 locker charges"
-  },
-  {
-  "id": 3,
-  "package_name": "GOLD MEMBERSHIP",
-  "package_img": "https://i.ibb.co/YhWB1Xk/single-two.jpg",
-  "entry": "Single person",
-  "charge": "BDT 40,000 (Yearly Charges)",
-  "description": "gymnasium, programming exercise, free consultancy & fitness analysis with the chief instructor, members healthcare benefits, unlimited steam bath 3000 locker charges"
-  },
-  {
-  "id": 4,
-  "package_name": "GOLD MEMBERSHIP",
-  "package_img": "https://i.ibb.co/fdBQTwz/couple-one.jpg",
-  "entry": "For Couple",
-  "charge": "BDT 70,000 (Yearly Charges)",
-  "description": "gymnasium, programming exercise, free consultancy & fitness analysis with the chief instructor, members healthcare benefits, unlimited steam bath 3000 locker charges"
-  },
-  {
-  "id": 5,
-  "package_name": "SILVER MEMBERSHIP",
-  "package_img": "https://i.ibb.co/Lk6jKQ3/single-one.jpg",
-  "entry": "Single person",
-  "charge": "BDT 8,000 (Yearly Charges)",
-  "description": "gymnasium, programming exercise, free consultancy & fitness analysis with the chief instructor"
-  },
-  {
-  "id": 6,
-  "package_name": "SILVER MEMBERSHIP",
-  "package_img": "https://i.ibb.co/fdBQTwz/couple-one.jpg",
-  "entry": "For Couple",
-  "charge": "BDT 14,000 (Yearly Charges)",
-  "description": "gymnasium, programming exercise, free consultancy & fitness analysis with the chief instructor."
-  }
+    { _id: 1, name: "Genuity Limited", address: "Mirpur, Dhaka - 1000", link: "https://www.google.com", category: "Software solution", contact: "info@genuity.com", job: 30, img: "" },
+    { _id: 2, name: "ICC Communication", address: "Gulshan - 2, Dhaka", link: "https://www.google.com", category: "ERP solution", contact: "info@icc.com", job: 12, img: "" },
+    { _id: 3, name: "Silicon Corporation", address: "Court Para, Kushtia", link: "https://www.google.com", category: "Artificial Intelligence", contact: "info@siliconcorp.com", job: 5, img: "" },
 ]
